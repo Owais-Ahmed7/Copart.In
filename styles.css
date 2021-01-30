@@ -1,0 +1,194 @@
+body{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*title Section */
+
+#title{
+    background-color: /*#55b3b1*/ #5fdde5;
+    font-family: sans-serif;
+    color: #1c2b2d /*#fff*/ !important;
+}
+
+.header-h1{
+    font-family: 'ubuntu', sans-serif;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    line-height: 1.5;
+}
+
+.container{
+    padding: 5% 15%;
+}
+
+/* Nav Bar */
+
+.navbar {
+    padding: 0 0 4.5rem  !important;
+}
+
+.navbar-brand {
+    font-family: 'ubuntu';
+    font-size: 2.5rem !important;
+    font-weight: bolder;
+}
+
+.navbar-light .navbar-brand{
+    color: #1c2b2d /*#fff*/ !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: /*#bbbbbb*/ #fff !important;
+}
+
+.navbar-light:hover .navbar-nav:hover .nav-link:hover {
+    color: #1c2b2d !important;
+}
+
+.nav-item {
+    padding: 0 18px;
+    font-size: 1.1rem;
+}
+
+/*title image */
+
+.copart-image{
+    width: 100%;
+}
+
+/* Cars Images */
+
+.car-images{
+    height: 20rem;
+}
+
+.img-text{
+    padding: 0px;
+    text-align: center;
+}
+
+/*Testimonial Section */
+
+#Testimonial{
+    background-image: url();
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    word-spacing: 6px;
+    color: #fff;
+    margin: auto;
+    padding: 5% 10% 5%;
+    background-color:/*#92817a*/ #f5a7a7;
+}
+
+.carousel-h2{
+    font-size: 3rem;
+    font-weight: bold;
+    text-shadow: 8px 5px 17px#fecd1a;
+}
+
+.dream-car{
+    width: 20%;
+    border-radius: 100%;
+    margin-top: 3% ;
+}
+
+.auction-cars {
+    width: 27%;
+    height: 15.2rem;
+    border-radius: 100%;
+    margin-top: 3% ;
+}
+
+
+
+/* Cars Section */
+
+#cars-section{
+    background-color: #5fdde5;
+    padding: 3rem 1rem 3rem;
+    text-align: center;
+    color: #1c2b2d !important;
+}
+
+.car-section-h2{
+    padding: 2rem;
+    font-family: "Ubuntu";
+}
+
+.car-h2{
+    margin: auto !important;
+    font-size: 3rem;
+}
+
+.card{
+    margin-top: 5%;
+}
+
+
+
+/*Brand */
+
+#brands {
+    background-color: #f5a7a7;
+    padding: 4rem 2rem 2rem;
+}
+
+.brand-text-div{
+    color: #fff;
+    padding: 2% 3% 3% 6% !important;
+}
+
+.brand-h2 {
+    font-family: 'Acme', sans-serif;
+    font-size: 3.5rem !important;
+    letter-spacing: 3px;
+}
+
+/*Brand Table */
+
+.car-list{
+    width: 10rem;
+    height: 40px;
+}
+
+
+/*Footer Section */
+
+#footer{
+    word-spacing: 6px;
+    text-align: center;
+    padding: 7rem 3rem 2rem;
+    background-color: #5fdde5;
+}
+
+.footer-anchor{
+    padding: 6px;
+    width: 5rem;
+    height: 15px;
+    border-right: 1px solid #007bff;
+    font-weight: 600;
+}
+
+.footer-anchor:hover{
+    text-decoration-line: none;
+    color: #1c2b2d ;
+}
+
+.footer-p-div{
+    margin-top: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
